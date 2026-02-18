@@ -4,36 +4,9 @@ An [OpenPeon](https://github.com/PeonPing/openpeon) (CESP v1.0) voice pack featu
 
 > *"I am a beacon of knowledge blazing out across a black sea of ignorance."*
 
-```
-                   *       .    *    .
-            .    *    .         *        .
-         *         (Q)    (W)    (E)
-                    *      *      *
-                     \     |     /
-                      \    |    /
-                   .---\---+---/---.
-                  /     \  |  /     \
-                 |    ___\___/___    |
-                 |   /   (. .)   \   |
-                 |  |    \_-_/    |  |
-                 |   \___________/   |
-              *  |   |  /     \  |   |  *
-             /|\ |   | | () () | |   | /|\
-            / | \|   |  \_____/  |   |/ | \
-           /  |  \   |     |     |   /  |  \
-          / .'|'. \  |    /|\    |  / .'|'. \
-         / '  |  ' \/|   / | \   |\/  '|  ' \
-        /_____^_____\|__/  |  \__|/_____^_____\
-              |      |  '. | .'  |      |
-              |      |    \|/    |      |
-                     |     V     |
-                     |   _/ \_   |
-                     |  /     \  |
-                     | /       \ |
-                     |/         \|
-                     /           \
-                    /             \
-```
+<p align="center">
+  <img src="invoker.png" alt="Invoker" width="300">
+</p>
 
 ## About Invoker
 
